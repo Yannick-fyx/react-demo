@@ -2,8 +2,7 @@
 # React Clock Component
 这是一个简单的 React 组件，用于展示当前时间，并允许用户添加多个时钟实例，每个实例都会实时更新时间。
 
-## 预览
-![React Clock Preview](./preview.png)
+
 
 ## 特性
 - 实时更新当前时间
